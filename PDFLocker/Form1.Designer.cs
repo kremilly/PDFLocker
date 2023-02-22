@@ -449,10 +449,10 @@
             this.creditsLink.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
             this.creditsLink.Location = new System.Drawing.Point(191, 420);
             this.creditsLink.Name = "creditsLink";
-            this.creditsLink.Size = new System.Drawing.Size(104, 15);
+            this.creditsLink.Size = new System.Drawing.Size(106, 15);
             this.creditsLink.TabIndex = 27;
             this.creditsLink.TabStop = true;
-            this.creditsLink.Text = "By: @thesilvacesar";
+            this.creditsLink.Text = "By: @thesilvaemily";
             this.creditsLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.creditsLink_LinkClicked);
             // 
             // Form1

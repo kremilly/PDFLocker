@@ -230,7 +230,7 @@ namespace PDFLocker
 
         private void creditsLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("explorer", "https://github.com/thesilvacesar/PDFLocker");
+            Process.Start("explorer", "https://github.com/thesilvaemily/PDFLocker");
         }
     }
 }
