@@ -59,7 +59,7 @@ namespace PDFLocker
                 validChars += "!@#$%^&*?_+-<>()[]{}";
             }
 
-            Random random = new Random(); 
+            Random random = new Random();
             char[] chars = new char[Convert.ToInt32(passSize.Value)];
 
             for (int i = 0; i < Convert.ToInt32(passSize.Value); i++)
@@ -82,7 +82,7 @@ namespace PDFLocker
             }
             else
             {
-                passGenGroup.Visible= false;
+                passGenGroup.Visible = false;
             }
         }
 
@@ -230,7 +230,7 @@ namespace PDFLocker
 
         private void creditsLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("explorer", "https://github.com/thesilvaemily/PDFLocker");
+            Process.Start("explorer", "https://github.com/kremilly/PDFLocker");
         }
     }
 }
