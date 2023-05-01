@@ -22,4 +22,4 @@ git clone https://github.com/kremilly/PDFLocker.git
 
 ## License
 
-Code licensed under [MIT License](https://github.com/kremilly/PDFLocker/blob/main/LICENSE)
+Code licensed under [MIT License](https://github.com/kremilly/PDFLocker/blob/master/LICENSE)
